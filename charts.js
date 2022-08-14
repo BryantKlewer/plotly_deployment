@@ -178,14 +178,12 @@ function buildCharts(sample) {
       annotations:[{
         x: 0.5,
         y: 0,
-        text: "Washes Per Week"
-      }],
+        }],
       font: {
         color: "black",
         family: "Arial",
         size: 12,
       }
-
     };
 
     // 6. Use Plotly to plot the gauge data and layout.
