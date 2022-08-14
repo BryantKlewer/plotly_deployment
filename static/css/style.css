@@ -15,5 +15,10 @@ body {
   .well {
     background-color: #3e81be;
     color: #fffbf2;
+    
   }
 
+  .sel_dataset {
+    font-family: "Arial";
+    color: "black";
+  }

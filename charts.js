@@ -178,7 +178,8 @@ function buildCharts(sample) {
       annotations:[{
         x: 0.5,
         y: 0,
-        showarrow: false
+        showarrow: false,
+        text: ""
       }],
       font: {
         color: "black",
