@@ -112,7 +112,7 @@ function buildCharts(sample) {
       marker: {
         size: values,
         color: ids,
-        colorscale: "jet"
+        colorscale: "Spectral"
       }
     }];
 
