@@ -15,7 +15,7 @@ body {
   .well {
     background-color: #3e81be;
     color: #0c0b0a;
-    
+    font-family: "Arial";
   }
 
   .panel-body {
