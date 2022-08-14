@@ -112,7 +112,7 @@ function buildCharts(sample) {
       marker: {
         size: values,
         color: ids,
-        colorscale: "Cividis"
+        colorscale: "jet"
       }
     }];
 
@@ -126,8 +126,8 @@ function buildCharts(sample) {
         size: 15,
         family: "Arial",
         color: "black",
-      }
-    };
+      
+    }};
 
     // 3. Use Plotly to plot the data with the layout.
     Plotly.newPlot("bubble", bubbleData, bubbleLayout, {responsive: true}); 
