@@ -112,7 +112,7 @@ function buildCharts(sample) {
       marker: {
         size: values,
         color: ids,
-        colorscale: "Spectral"
+        colorscale: "haline"
       }
     }];
 
@@ -135,7 +135,7 @@ function buildCharts(sample) {
 // Gauge Chart
 
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
-    var filterMeta = data.metadata.filter(data => data.id === sample);
+    var filterMeta = data.metadata.filter(data => data.id == sample);
 
     // 2. Create a variable that holds the first sample in the metadata array.
     var initialMeta = filterMeta[0];
@@ -170,7 +170,7 @@ function buildCharts(sample) {
           {range: [8,10], color: "green"}
         ]
       }
-  }];
+    }];
     
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = { 
@@ -178,7 +178,7 @@ function buildCharts(sample) {
       annotations:[{
         x: 0.5,
         y: 0,
-        }],
+      }],
       font: {
         color: "black",
         family: "Arial",
