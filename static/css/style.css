@@ -22,3 +22,8 @@ body {
     font-family: "Arial";
     color: "black";
   }
+
+  .panel-body {
+    font-family: "Arial";
+    font-weight: bold;
+  }
