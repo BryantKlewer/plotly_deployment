@@ -14,13 +14,8 @@ body {
 
   .well {
     background-color: #3e81be;
-    color: #fffbf2;
+    color: #0c0b0a;
     
-  }
-
-  .sel_dataset {
-    font-family: "Arial";
-    color: "black";
   }
 
   .panel-body {
