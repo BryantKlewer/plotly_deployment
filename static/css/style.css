@@ -4,7 +4,7 @@ body {
     font-family: "Arial";
   }
   .jumbotron {
-    background-image: url("../images/bacteria.jpg");
+    background-image: url("../images/bacteria_pic.jpg");
     background-size: 100% 100%;
     text-align: center;
     color: #fffbf2;
@@ -14,5 +14,6 @@ body {
 
   .well {
     background-color: #3e81be;
+    color: #fffbf2;
   }
 
