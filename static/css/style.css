@@ -4,7 +4,7 @@ body {
     font-family: "Arial";
   }
   .jumbotron {
-    background-image: url("../images/Cedars-Sinai-org.jpg");
+    background-image: url("../images/bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
     color: #fffbf2;
@@ -13,9 +13,6 @@ body {
   }
 
   .well {
-    background-color: #e7c34e;
+    background-color: #3e81be;
   }
 
-  .panel-heading {
-    background-color: #e7c34e;
-  }
