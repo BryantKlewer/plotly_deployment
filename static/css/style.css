@@ -1,0 +1,11 @@
+body {
+    color: #c5e0e9;
+    font-family: "Arial";
+  }
+  .jumbotron {
+    background-image: url("../images/bacteriaheader2.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    font-family: "Arial";
+  }
+
