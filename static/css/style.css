@@ -1,13 +1,21 @@
 body {
     color: #313130;
+    background-color: #c6c7c9;
     font-family: "Arial";
   }
   .jumbotron {
     background-image: url("../images/Cedars-Sinai-org.jpg");
     background-size: 100% 100%;
     text-align: center;
-    color: #f8e6c0;
+    color: #fffbf2;
     font-family: "Arial";
 
   }
 
+  .well {
+    background-color: #e7c34e;
+  }
+
+  .panel-heading {
+    background-color: #e7c34e;
+  }
