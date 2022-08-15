@@ -1,7 +1,7 @@
 # Plotly_Deployment
 
 ## Overview
-* Improbable Beef is trying to find the correct bacteria in order to develop a lab grown beef alternative. They have compiled a large data set of belly button bacteria to help them with their project. I was tasked with creating a [dashboard](https://bryantklewer.github.io/plotly_deployment/) for this to allow the test subjects to see if the winning bacteria was found in their belly button!
+* Improbable Beef is trying to find the correct bacteria in order to develop a lab grown beef alternative. They have compiled a large data set of belly button bacteria to help them with their project. I was tasked with creating a [dashboard](https://bryantklewer.github.io/plotly_deployment/) that allows all test subjects to see if the winning bacteria was found in their belly button!
 
 ## Dashboard
 * View of the dashboard landing page. Click the link to see the [dashboard](https://bryantklewer.github.io/plotly_deployment/).
