@@ -18,4 +18,5 @@
 * Bubble chart showing all varieties of bacteria in the test subjects belly button. 
 * ![culture_samples](https://github.com/BryantKlewer/plotly_deployment/blob/main/Screen_Shots/culture_samples.png)
 * The bacteria charts are interactive as well! Scrolling over the bacteria data populates the bacterial information. 
-* 
+* ![bacteria_info1](https://github.com/BryantKlewer/plotly_deployment/blob/main/Screen_Shots/bacteria_info1.png)
+* ![bacteria_info2](https://github.com/BryantKlewer/plotly_deployment/blob/main/Screen_Shots/bacteria_info2.png)
